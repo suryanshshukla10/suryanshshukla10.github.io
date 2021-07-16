@@ -19,7 +19,8 @@ div{
 }
 
 body {
-    background-color: black; padding: 200px; font-size: 20px; line-height:1.4; padding-top: 0;
+    background-color: linear-gradient(to left right, rgba(0,0,0, 0.8), rgba(0,255,0,0.8));
+    padding: 200px; font-size: 20px; line-height:1.4; padding-top: 0;
 
 }
 
